@@ -1,0 +1,29 @@
+.help {
+
+     
+    background:gray;/*rgb(34, 32, 32);/*rgb(59, 183, 231);*/
+    margin: 10% 35% 5% 35%;
+    padding: 5%;
+    text-align: center;
+    box-shadow: 0 2px 5px 0 rgb(255, 255, 255), 0 2px 10px 0 rgb(255, 255, 255);
+    font-size: 24pt;
+    border-radius: 10px;
+
+    
+}
+
+.help:hover{
+
+    background: rgb(37, 55, 70);
+}
+
+footer {
+
+   
+    display: flex;
+    margin-top: 10%;
+
+    
+
+}
+
